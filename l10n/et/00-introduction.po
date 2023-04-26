@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "POT-Creation-Date: 2023-04-26 07:36+0000\n"
-"PO-Revision-Date: 2023-04-26 14:24+0000\n"
+"PO-Revision-Date: 2023-04-26 19:47+0000\n"
 "Last-Translator: Exile <exile@chamber.ee>\n"
 "Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
 "Language: et\n"
@@ -41,6 +41,9 @@ msgid ""
 " courtyard.  \\par\\textbf{Phillip (playing Gareth):} I want to look at the gargoyles. I have a feeling they’re not just statues.  \\par\\textbf{Amy (playing Riva):} The drawbridge looks precarious?"
 " I want to see how sturdy it is. Do I think we can cross it, or is it going to collapse under our weight?"
 msgstr ""
+"\\par\\textbf{Dungeon Master (DM):} Pärast kalju tippude läbimist pöörab tee järsult itta ja teie ees kerkivad Ravenlofti lossi tornid. Varisevad kivitornid valvavad vaikselt lähenemist. Need näevad välja nagu mahajäetud valvemajad. Nende taga laiub lai kuristik, mis kaob all sügavasse udusse. Madaldatud tõstesild ületab kuristikku, mis viib kaarekujulise sissepääsuni lossihoovi. Tõmbesilla ketid krigisevad tuule käes, nende roostest söödud raud raskusega pingutumas. Kõrgete tugevate müüride tipust vaatavad kivist gargoiilid õõnsatest pesadest vastu ja irvitavad võikalt. Sisenemistunnelis ripub mädanenud puidust langevärav, rohelusest pakatav. Möödudes sellest on Ravenlofti lossi peauksed avatud, hoovi valgub rikkalik soe valgus.\n"
+"\\par\\textbf{Phillip (mängib Garethi):} Ma tahan gargoile vaadata. Mul on tunne, et need pole lihtsalt kujud.\n"
+"\\par\\textbf{Amy (mängib Rivat):} Tõstesild tundub ebakindel? Ma tahan näha, kui vastupidav see on. Kas ma arvan, et saame sellest üle või kukub see meie raskuse all kokku?"
 
 #. type: Plain text
 #: 00-introduction-en.tex:14
@@ -49,6 +52,9 @@ msgid ""
 "or whether their adventurers can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Any- thing is possible, but the dice make some outcomes "
 "more probable than others."
 msgstr ""
+"Erinevalt väljamõeldud mängust annab D\\&D lugudele struktuuri, mis võimaldab määrata seiklejate tegevuse tagajärgi. Mängijad veeretavad täringuid, et otsustada, kas nende rünnak tabab või läheb "
+"mööda või kas nende seiklejad suudavad ületada kalju, põigata kõrvale maagilise välgunoole löögist või sooritada mõni muu ohtlik ülesanne. Kõik on võimalik, kuid täringud muudavad mõned tulemused "
+"tõenäolisemaks kui teised."
 
 #. type: DndReadAloud
 #: 00-introduction-en.tex:24
@@ -57,6 +63,13 @@ msgid ""
 "\\par\\textbf{DM:} Make an Intelligence check.  \\par\\textbf{Phillip:} Does my Investigation skill apply? \\par\\textbf{DM:} Sure! \\par\\textbf{Phillip (rolling a d20):} Ugh. Seven.  "
 "\\par\\textbf{DM:} They look like decorations to you. And Amy, Riva is checking out the drawbridge?"
 msgstr ""
+"\\par\\textbf{Dungeon Master (DM):} OK, ükshaaval. Phillip, sa vaatad gargoile?\n"
+"\\par\\textbf{Phillip:} Jah. Kas on vihjeid, et need võivad olla olendid, mitte kaunistused?\n"
+"\\par\\textbf{DM:} Soorita intelligentsuse võimekontroll.\n"
+"\\par\\textbf{Phillip:} Kas minu uurimisoskus siin ka rakendub?\n"
+"\\par\\textbf{DM:} Muidugi!\n"
+"\\par\\textbf{Phillip (veeretades d20 täringut):} Oeh. Seitse.\n"
+"\\par\\textbf{DM:} Nad näevad teile välja nagu kaunistused. Ja Amy, Riva kontrollib tõstesilda?"
 
 #. type: Plain text
 #: 00-introduction-en.tex:26
@@ -65,6 +78,9 @@ msgid ""
 "dark dungeon, a ruined city, a haunted castle, a lost temple deep in a jungle, or a lava-filled cavern beneath a mysterious mountain. The adventurers can solve puzzles, talk with other characters, "
 "battle fantastic monsters, and discover fabulous magic items and other treasure."
 msgstr ""
+"Mängus Dungeons \\& Dragons loob iga mängija seikleja (nimetatakse ka tegelaseks) ja ühineb teiste seiklejatega (keda mängivad sõbrad). Koos töötades võib rühm uurida pimedat koobast, varemeis "
+"linna, tondilossi, sügaval džunglis kadunud templit või salapärase mäe all asuvat laavaga täidetud käike. Seiklejad saavad lahendada mõistatusi, rääkida teiste tegelastega, võidelda fantastiliste "
+"koletistega ning avastada vapustavaid võluesemeid ja muid aardeid."
 
 #. type: Plain text
 #: 00-introduction-en.tex:28
@@ -75,6 +91,10 @@ msgid ""
 "adventurers’ actions and narrates what they experience. Because the DM can improvise to react to anything the players attempt, D\\&D is infinitely flexible, and each adventure can be exciting and "
 "unexpected."
 msgstr ""
+"Üks mängija aga võtab endale Dungeon Masteri (DM), mängu juhtiva jutuvestja ja kohtuniku rolli. DM loob seiklusi tegelastele, kes navigeerivad ohtude vahel ja otsustavad, milliseid teid uurida. DM "
+"võib kirjeldada Ravenlofti lossi sissepääsu ja mängijad otsustavad, mida nad soovivad, et nende tegelased teeksid. Kas nad kõnnivad üle ohtlikult ilmastikuga tõstesilla? Seo end köiega kokku, et "
+"minimeerida võimalust, et keegi kukub, kui tõstesild järele annab? Või loitsivad neid üle kuristiku kandmiseks? Seejärel määrab DM seiklejate tegevuse tulemused ja jutustab, mida nad kogevad. Kuna "
+"DM suudab improviseerida, et reageerida kõigele, mida mängijad proovivad, on D\\&D lõpmatult paindlik ning iga seiklus võib olla põnev ja ootamatu."
 
 #. type: Plain text
 #: 00-introduction-en.tex:30
@@ -83,6 +103,9 @@ msgid ""
 " months or years, meeting with their friends every week or so to pick up the story where they left off. The adventurers grow in might as the campaign continues. Each monster defeated, each adventure"
 " completed, and each treasure recovered not only adds to the continuing story, but also earns the adventurers new capabilities. This increase in power is reflected by an adventurer’s level."
 msgstr ""
+"Mängul pole tegelikku lõppu; kui üks lugu või ülesanne lõpeb, võib alata teine, luues jätkuva loo, mida nimetatakse \\textbf{kampaaniaks}. Paljud inimesed, kes seda mängu mängivad, jätkavad oma "
+"kampaaniaid kuid või aastaid, kohtudes oma sõpradega iga nädal, et jätkata lugu sealt, kus nad pooleli jäid. Kampaania jätkudes saavad seiklejad jõudu juurde. Iga võidetud koletis, iga seiklus "
+"lõpule viidud ja iga taastatud aare mitte ainult ei täienda jätkuvat lugu, vaid annab seiklejatele ka uusi võimalusi. Seda jõu suurenemist peegeldab seikleja tase."
 
 #. type: Plain text
 #: 00-introduction-en.tex:32
@@ -92,11 +115,15 @@ msgid ""
 "powerful magic to revive their fallen comrade, or the player might choose to create a new character to carry on. The group might fail to complete an adventure successfully, but if everyone had a "
 "good time and created a memorable story, they all win."
 msgstr ""
+"Dungeons \\& Dragonsi mängus ei võideta ega kaotata – vähemalt mitte nii, nagu neid mõisteid tavaliselt kasutatakse. Koos loovad DM ja mängijad põneva loo julgetest seiklejatest, kes seisavad "
+"silmitsi surmavate ohtudega. Mõnikord võib seikleja leida kohutava lõpu - metsikute koletiste poolt lõhki rebitud või õela kaabaka poolt. Sellegipoolest saavad teised seiklejad otsida võimsat "
+"maagiat, et oma langenud kamraadi elustada. Mängija võib otsustada luua ka uue tegelase, kellena edasi mängida. Grupp ei pruugi seiklust edukalt lõpule viia, kuid kui kõigil oli lõbus ja koos loodi "
+"meeldejääv lugu, siis kõik võidavad."
 
 #. type: section{#2}
 #: 00-introduction-en.tex:35
 msgid "Worlds of Adventure"
-msgstr ""
+msgstr "Seiklusmaailmad"
 
 #. type: Plain text
 #: 00-introduction-en.tex:35
@@ -104,6 +131,8 @@ msgid ""
 "The many worlds of the Dungeons \\& Dragons game are places of magic and monsters, of brave warriors and spectacular adventures. They begin with a foundation of medieval fantasy and then add the "
 "creatures, places, and magic that make these worlds unique."
 msgstr ""
+"Mängu Dungeons \\& Dragons paljud maailmad on maagia ja koletiste, vaprate sõdalaste ja suurejooneliste seikluste kohad. Need saavad alguse keskaegsest fantaasiast kuhu lisatakse olendid, kohad ja "
+"maagia, mis muudavad need maailmad ainulaadseks."
 
 #. type: Plain text
 #: 00-introduction-en.tex:37
