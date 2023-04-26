@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "POT-Creation-Date: 2023-04-26 07:36+0000\n"
-"PO-Revision-Date: 2023-04-26 19:47+0000\n"
+"PO-Revision-Date: 2023-04-26 20:30+0000\n"
 "Last-Translator: Exile <exile@chamber.ee>\n"
 "Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
 "Language: et\n"
@@ -142,6 +142,10 @@ msgid ""
 "legends of the Forgotten Realms, Dragonlance, Greyhawk, Dark Sun, Mystara, and Eberron settings are woven together in the fabric of the multiverse. Alongside these worlds are hundreds of thousands "
 "more, created by generations of D\\&D players for their own games. And amid all the richness of the multiverse, you might create a world of your own."
 msgstr ""
+"Mängu Dungeons \\& Dragons maailmad eksisteerivad avaras kosmoses, mida nimetatakse multiversumiks ja mis on kummalisel ja salapärasel viisil ühendatud üksteise ja teiste eksistentsitasanditega, "
+"nagu tule elementaarne tasapind ja sügavuse lõpmatu sügavus. Selles multiversumis on lõputu hulk maailmu. Paljud neist on avaldatud D\\&D mängu ametlike seadetena. Unustatud maailmade, "
+"Dragonlance'i, Greyhawki, Dark Suni, Mystara ja Eberroni seadete legendid on kokku kootud multiversumi kangasse. Nende maailmade kõrval on veel sadu tuhandeid, mille on loonud D\\&D mängijate "
+"põlvkonnad oma mängude jaoks. Ja keset kogu multiversumi rikkust, võid luua oma maailma."
 
 #. type: Plain text
 #: 00-introduction-en.tex:39
@@ -151,6 +155,10 @@ msgid ""
 "unknown in other settings, such as Eberron’s warforged, soldiers created and imbued with life to fight in the Last War. Some worlds are dominated by one great story, like the War of the Lance that "
 "plays a central role in the Dragonlance setting. But they’re all D\\&D worlds, and you can use the rules here to create a character and play in any one of them."
 msgstr ""
+"Kõigil neil maailmadel on ühised tunnused, kuid iga maailma eristavad oma ajalugu ja kultuur, omapärased koletised ja rassid, fantastiline geograafia, iidsed koopad ja kavalad kurikaelad. Mõnel "
+"rassil on erinevates maailmades ebatavalisi jooni. Näiteks loojuva Dark Suni poolpojad on džunglis elavad kannibalid ja päkapikud on kõrbes nomaadid. Mõnes maailmas on rassid, mida teistes "
+"olukordades ei tunta, näiteks Eberroni sõtta löödud sõdurid, kes on loodud ja täis elu, et võidelda Viimases Sõjas. Mõnes maailmas domineerib üks suurepärane lugu, nagu näiteks \"Lansi sõda\", mis "
+"mängib Dragonlance'i keskkonnas keskset rolli. Kuid need kõik on D\\&D maailmad ning siinsete reeglite abil saate luua tegelase ja mängida ükskõik millises neist."
 
 #. type: Plain text
 #: 00-introduction-en.tex:41
@@ -158,16 +166,18 @@ msgid ""
 "Your DM might set the campaign on one of these worlds or on one that he or she created. Because there is so much diversity among the worlds of D\\&D, you should check with your DM about any house "
 "rules that will affect your play of the game. Ultimately, the Dungeon Master is the authority on the campaign and its setting, even if the setting is a published world."
 msgstr ""
+"Teie DM võib seada kampaania ühte neist maailmadest või luua ise täiesti uue. Kuna D\\&D maailmas on nii palju mitmekesisust, peaksite oma DM-lt uurima kõiki teie mängule mõjutavaid majareegleid. "
+"Lõppkokkuvõttes on Dungeon Master kampaania ja selle seadistuste autoriteet, isegi kui see maailm on avaldatud."
 
 #. type: section{#2}
 #: 00-introduction-en.tex:44
 msgid "Using These Rules"
-msgstr ""
+msgstr "Reeglite kasutamine"
 
 #. type: Plain text
 #: 00-introduction-en.tex:44
 msgid "The D\\&D Basic Rules document has four main parts."
-msgstr ""
+msgstr "D\\&D põhireeglite dokumendil on neli põhiosa."
 
 #. type: Plain text
 #: 00-introduction-en.tex:46
