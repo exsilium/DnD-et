@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: l 10n\n"
 "POT-Creation-Date: 2023-04-26 07:36+0000\n"
-"PO-Revision-Date: 2023-04-26 20:30+0000\n"
+"PO-Revision-Date: 2023-04-27 04:40+0000\n"
 "Last-Translator: Exile <exile@chamber.ee>\n"
 "Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
 "Language: et\n"
@@ -185,6 +185,8 @@ msgid ""
 "\\textbf{Part 1} is about creating a character, providing the rules and guidance you need to make the character you’ll play in the game. It includes information on the various races, classes, "
 "backgrounds, equipment, and other customization options that you can choose from. Many of the rules in part 1 rely on material in parts 2 and 3."
 msgstr ""
+"\\textbf{Osa 1} käsitleb tegelase loomist, reeglite ja juhiste pakkumist, mida vajate tegelase loomiseks, keda mängus mängite. See sisaldab teavet erinevate võistluste, klasside, tausta, varustuse "
+"ja muude kohandamisvõimaluste kohta, mille hulgast saate valida. Paljud 1. osa reeglid põhinevad 2. ja 3. osa materjalil."
 
 #. type: Plain text
 #: 00-introduction-en.tex:48
@@ -192,6 +194,8 @@ msgid ""
 "\\textbf{Part 2} details the rules of how to play the game, beyond the basics described in this introduction. That part covers the kinds of die rolls you make to determine success or failure at the "
 "tasks your character attempts, and describes the three broad categories of activity in the game: exploration, interaction, and combat."
 msgstr ""
+"\\textbf{Osa 2} kirjeldab lisaks selles sissejuhatuses kirjeldatud põhitõdesid mängu mängimise reegleid. See osa hõlmab täringuviskeid, mida teete, et määrata kindlaks teie tegelase proovitud "
+"ülesannete õnnestumine või ebaõnnestumine, ning kirjeldab mängu kolme suurt tegevuskategooriat: uurimine, suhtlemine ja võitlus."
 
 #. type: Plain text
 #: 00-introduction-en.tex:50
@@ -199,6 +203,7 @@ msgid ""
 "\\textbf{Part 3} is all about magic. It covers the nature of magic in the worlds of D\\&D, the rules for spellcasting, and a selection of typical spells available to magic-using characters (and "
 "monsters) in the game."
 msgstr ""
+"\\textbf{Osa 3} on maagiast. See hõlmab maagia olemust D\\&D maailmades, loitsureegleid ja valikut tüüpilistest loitsudest, mis on mängus maagiat kasutavatele tegelastele (ja koletistele) saadaval."
 
 #. type: Plain text
 #: 00-introduction-en.tex:52
@@ -206,6 +211,8 @@ msgid ""
 "\\textbf{Part 4} is especially for the Dungeon Master. It contains instructions for how to challenge the player characters with adversaries that are a good test of their abilities, plus dozens of "
 "ready-to-use monster descriptions. It also provides a sampling of magic items that the characters can earn as their rewards for vanquishing those monsters."
 msgstr ""
+"\\textbf{Osa 4} on spetsiaalselt Dungeon Masterile. See sisaldab juhiseid mängijategelaste väljakutse esitamiseks vastastega, mis panevad nende võimete proovile, ning kümneid kasutusvalmis koletiste"
+" kirjeldusi. See pakub ka näidiseid maagilistest esemetest, mida tegelased saavad nende koletiste võitmise eest preemiaks teenida."
 
 #. type: Plain text
 #: 00-introduction-en.tex:54
@@ -214,16 +221,19 @@ msgid ""
 "discussion of deities in the game, particularly those in the Forgotten Realms setting. \\textbf{Appendix C} describes the five factions in the Forgotten Realms that characters can become associated "
 "with. Finally, a three-page \\textbf{character sheet} provides a standardized way for players to record and keep track of their characters’ abilities and possessions."
 msgstr ""
+"Dokumendi lõpp sisaldab lisamaterjali. \\textbf{Lisa A} kogub kõik tingimuste määratlused, mis võivad tegelasi ja koletisi mõjutada. \\textbf{Lisas B}  kirjeldatakse lühidalt mängus olevaid "
+"jumalusi, eriti neid, mis on unustatud valdkondades. \\textbf{Lisas C}  kirjeldatakse viit unustatud maailma fraktsiooni, millega tegelased võivad seostuda. Lõpuks, kolmeleheküljeline "
+"\\textbf{tegelase leht} pakub mängijatele standardiseeritud viisi oma tegelaste võimete ja valduste salvestamiseks ja jälgimiseks."
 
 #. type: section{#2}
 #: 00-introduction-en.tex:57
 msgid "How to Play"
-msgstr ""
+msgstr "Kuidas mängida"
 
 #. type: Plain text
 #: 00-introduction-en.tex:57
 msgid "The play of the Dungeons \\& Dragons game unfolds according to this basic pattern."
-msgstr ""
+msgstr "Mäng Dungeons \\& Dragons kulgeb järgneva põhimudeli järgi."
 
 #. type: Plain text
 #: 00-introduction-en.tex:59
@@ -231,6 +241,8 @@ msgid ""
 "\\textbf{1. The DM describes the environment.} The DM tells the players where their adventurers are and what’s around them, presenting the basic scope of options that present themselves (how many "
 "doors lead out of a room, what’s on a table, who’s in the tavern, and so on)."
 msgstr ""
+"\\textbf{1. DM kirjeldab keskkonda.} DM ütleb mängijatele, kus nende seiklejad on ja mis nende ümber on, tutvustades põhilisi valikuvõimalusi (mitu ust viib ruumist välja, mis on laual, kes on "
+"kõrtsis jne)."
 
 #. type: Plain text
 #: 00-introduction-en.tex:61
@@ -239,6 +251,9 @@ msgid ""
 "different things: one adventurer might search a treasure chest while a second examines an esoteric symbol engraved on a wall and a third keeps watch for monsters. The players don’t need to take "
 "turns, but the DM listens to every player and decides how to resolve those actions."
 msgstr ""
+"\\textbf{2. Mängijad kirjeldavad, mida nad teha tahavad.} Mõnikord räägib üks mängija kogu seltskonna nimel, öeldes: \"Me võtame näiteks idapoolse ukse\". Teinekord teevad erinevad seiklejad "
+"erinevaid asju: üks seikleja võib otsida aardekirstu, teine aga uurib seinale graveeritud esoteerilist sümbolit ja kolmas jälgib koletisi. Mängijad ei pea kordamööda käima, kuid DM kuulab iga "
+"mängija ära ja otsustab, kuidas need toimingud lahendada."
 
 #. type: Plain text
 #: 00-introduction-en.tex:63
@@ -247,11 +262,14 @@ msgid ""
 "locked, the floor might hide a deadly trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the DM decides what happens, often relying on "
 "the roll of a die to determine the results of an action."
 msgstr ""
+"Mõnikord on ülesande lahendamine lihtne. Kui seikleja soovib kõndida üle toa ja avada ukse, võib DM lihtsalt öelda, et uks avaneb, ja kirjeldada, mis asub seal taga. Kuid uks võib olla lukus, põrand"
+" võib peita surmava lõksu või mõni muu asjaolu võib seikleja jaoks ülesande täitmise keeruliseks muuta. Sellistel juhtudel otsustab DM, mis juhtub, tuginedes tegevuse tulemuste kindlaksmääramisel "
+"sageli täringu viskamisele."
 
 #. type: Plain text
 #: 00-introduction-en.tex:65
 msgid "\\textbf{3. The DM narrates the results of the adventurers’ actions.} Describing the results often leads to another decision point, which brings the flow of the game right back to step 1."
-msgstr ""
+msgstr "\\textbf{3. DM jutustab seiklejate tegevuse tulemused.} Tulemuste kirjeldamine viib sageli teise otsustuspunktini, mis viib mängu voolu kohe tagasi 1. sammu."
 
 #. type: Plain text
 #: 00-introduction-en.tex:67
@@ -260,6 +278,8 @@ msgid ""
 "combat, the action is more structured and the players (and DM) do take turns choosing and resolving actions. But most of the time, play is fluid and flexible, adapting to the circumstances of the "
 "adventure."
 msgstr ""
+"See muster kehtib olenemata sellest, kas seiklejad uurivad ettevaatlikult varemeid, vestlevad salakavala printsiga või on suletud sureliku võitlusse võimsa draakoniga. Teatud olukordades, eriti "
+"võitluses, on tegevus struktureeritum ja mängijad (ja DM) valivad ja lahendavad toiminguid kordamööda. Kuid enamasti on mäng sujuv ja paindlik, kohandudes seikluse oludega."
 
 #. type: Plain text
 #: 00-introduction-en.tex:69
@@ -268,16 +288,19 @@ msgid ""
 "effects to help set the mood, and many players and DMs alike adopt different voices for the various adventurers, monsters, and other characters they play in the game. Sometimes, a DM might lay out a"
 " map and use tokens or miniature figures to represent each creature involved in a scene to help the players keep track of where everyone is."
 msgstr ""
+"Sageli toimub seiklusmäng mängijate ja DM-i ettekujutuses, tuginedes stseeni loomisel DM-i suulistele kirjeldustele. Mõnele DM-ile meeldib meeleolu loomiseks kasutada muusikat, kunsti või "
+"salvestatud heliefekte ning paljud mängijad ja DM-id võtavad mängus mängitavate seiklejate, koletiste ja muude tegelaste jaoks erineva hääle. Mõnikord võib DM koostada kaardi ja kasutada žetoone või"
+" miniatuurseid figuure, et kujutada iga stseenis osalenud olendit, et aidata mängijatel jälgida, kus kõik on."
 
 #. type: subsection{#2}
 #: 00-introduction-en.tex:72
 msgid "Game Dice"
-msgstr ""
+msgstr "Täringud"
 
 #. type: Plain text
 #: 00-introduction-en.tex:72
 msgid "The game uses polyhedral dice with different numbers of sides. You can find dice like these in game stores and in many bookstores."
-msgstr ""
+msgstr "Mängus kasutatakse erineva arvu külgedega mitmetahulisi täringuid. Selliseid täringuid leiate mängupoodidest ja paljudest raamatupoodidest."
 
 #. type: Plain text
 #: 00-introduction-en.tex:74
@@ -285,6 +308,8 @@ msgid ""
 "In these rules, the different dice are referred to by the letter d followed by the number of sides: d4, d6, d8, d10, d12, and d20. For instance, a d6 is a six-sided die (the typical cube that many "
 "games use)."
 msgstr ""
+"Nendes reeglites on erinevatele täringutele viidatud tähega d, millele järgneb külgede arv: d4, d6, d8, d10, d12 ja d20. Näiteks d6 on kuuepoolne stants (tüüpiline kuup, mida paljud mängud "
+"kasutavad)."
 
 #. type: Plain text
 #: 00-introduction-en.tex:76
@@ -293,6 +318,9 @@ msgid ""
 "the tens digit, and the other gives the ones digit. If you roll a 7 and a 1, for example, the number rolled is 71. Two 0s represent 100. Some ten-sided dice are numbered in tens (00, 10, 20, and so "
 "on), making it easier to distinguish the tens digit from the ones digit. In this case, a roll of 70 and 1 is 71, and 00 and 0 is 100."
 msgstr ""
+"Protsentiili täringud ehk d100 töötavad veidi teisiti. Te genereerite arvu vahemikus 1 kuni 100, veeretades kahte erinevat kümnepoolset täringut, mis on nummerdatud vahemikus 0 kuni 9. Üks täring "
+"(määratud enne viskamist) annab kümnete numbrite ja teine ühed. Kui viskate näiteks 7 ja 1, on veeretav arv 71. Kaks nulli tähistavad 100. Mõned kümnetahulised täringud on nummerdatud kümnetesse "
+"(00, 10, 20 jne), mis hõlbustab nende eristamist. kümned numbrid ühest numbrist. Sel juhul on 70 ja 1 veeretamine 71 ning 00 ja 0 on 100."
 
 #. type: Plain text
 #: 00-introduction-en.tex:78
@@ -300,6 +328,8 @@ msgid ""
 "When you need to roll dice, the rules tell you how many dice to roll of a certain type, as well as what modifiers to add. For example, “3d8 + 5” means you roll three eight-sided dice, add them "
 "together, and add 5 to the total."
 msgstr ""
+"Kui teil on vaja täringut veeretada, on reeglites ette nähtud, mitut täringut teatud tüüpi täringuid veeretada ja milliseid modifikaatoreid lisada. Näiteks \"3d8 + 5\" tähendab, et viskate kolm "
+"kaheksapoolset täringut, liidate need kokku ja lisate kogusummale 5."
 
 #. type: Plain text
 #: 00-introduction-en.tex:80
@@ -307,11 +337,13 @@ msgid ""
 "The same d notation appears in the expressions “1d3” and “1d2.” To simulate the roll of 1d3, roll a d6 and divide the number rolled by 2 (round up). To simulate the roll of 1d2, roll any die and "
 "assign a 1 or 2 to the roll depending on whether it was odd or even. (Alternatively, if the number rolled is more than half the number of sides on the die, it’s a 2.)"
 msgstr ""
+"Sama d-tähis esineb avaldistes “1d3” ja “1d2”. 1d3 viskamise simuleerimiseks veeretage d6 ja jagage veeretatud arv 2-ga (ümardage üles). 1d2 viskamise simuleerimiseks viska suvalist täringut ja "
+"määra viskale 1 või 2 olenevalt sellest, kas see oli paaritu või paaritu. (Kui visatud arv on üle poole täringu külgede arvust, on see 2.)"
 
 #. type: subsection{#2}
 #: 00-introduction-en.tex:83
 msgid "D20"
-msgstr ""
+msgstr "D20"
 
 #. type: Plain text
 #: 00-introduction-en.tex:83
@@ -320,6 +352,9 @@ msgid ""
 "the main blast of a fireball, or does he or she take full damage from the blaze? In cases where the outcome of an action is uncertain, the Dungeons \\& Dragons game relies on rolls of a 20-sided "
 "die, a d20, to determine success or failure."
 msgstr ""
+"Kas seikleja mõõk teeb draakonile haiget või põrkab lihtsalt maha raudkõvadelt kaaludelt? Kas ogre usub ennekuulmatut bluffi? Kas tegelane suudab ujuda üle mäsleva jõe? Kas tegelane saab vältida "
+"tulekera peamist plahvatust või saab ta leegist täielikult kahju? Juhtudel, kui tegevuse tulemus on ebakindel, tugineb Dungeons \\& Dragonsi mäng edu või ebaõnnestumise määramiseks 20-tahulise "
+"täringu, d20, viskamisele."
 
 #. type: Plain text
 #: 00-introduction-en.tex:85
@@ -328,11 +363,14 @@ msgid ""
 "typically range from 3 to 18 for most adventurers. (Monsters might have scores as low as 1 or as high as 30.) These ability scores, and the \\textbf{ability modifiers} derived from them, are the "
 "basis for almost every d20 roll that a player makes on a character’s or monster’s behalf."
 msgstr ""
+"Igal mängu tegelasel ja koletisel on võimalused, mis on määratletud kuue võimeskooriga . Võimed on tugevus, osavus, põhiseadus, intelligentsus, tarkus ja karisma ning enamiku seiklejate jaoks on "
+"need tavaliselt vahemikus 3 kuni 18. (Koletiste hinded võivad olla nii madalad kui 1 või kuni 30.) Need võimete hinded ja nendest tuletatud võimete modifikaatorid on aluseks peaaegu igale d20 "
+"viskele, mille mängija tegelase või koletise nimel teeb."
 
 #. type: Plain text
 #: 00-introduction-en.tex:87
 msgid "Ability checks, attack rolls, and saving throws are the three main kinds of d20 rolls, forming the core of the rules of the game. All three follow these simple steps."
-msgstr ""
+msgstr "Võimete kontrollid, ründevisked ja tõrjevisked on kolm peamist tüüpi d20 viskeid, mis moodustavad mängureeglite tuuma. Kõik kolm järgivad neid lihtsaid samme."
 
 #. type: Plain text
 #: 00-introduction-en.tex:89
@@ -340,11 +378,13 @@ msgid ""
 "\\textbf{1. Roll the die and add a modifier.} Roll a d20 and add the relevant modifier. This is typically the modifier derived from one of the six ability scores, and it sometimes includes a "
 "proficiency bonus to reflect a character’s particular skill. (See chapter 1 for details on each ability and how to determine an ability’s modifier.)"
 msgstr ""
+"\\textbf{1. Veeretage stantsi ja lisage modifikaator.} Veeretage d20 ja lisage vastav modifikaator. Tavaliselt on see modifikaator, mis tuletatakse ühest kuuest võimete skoorist, ja mõnikord "
+"sisaldab see oskuste lisatasu, mis kajastab tegelase konkreetseid oskusi. (Vt 1. peatükki , et näha iga võime kohta üksikasju ja kuidas määrata võime modifikaatorit.)"
 
 #. type: Plain text
 #: 00-introduction-en.tex:91
 msgid "\\textbf{2. Apply circumstantial bonuses and penalties.} A class feature, a spell, a particular circumstance, or some other effect might give a bonus or penalty to the check."
-msgstr ""
+msgstr "\\textbf{2. Rakenda kaudseid lisatasusid ja karistusi.} Klassi tunnus, loits, konkreetne asjaolu või mõni muu mõju võib anda tšekile boonuse või karistuse."
 
 #. type: Plain text
 #: 00-introduction-en.tex:93
@@ -352,21 +392,23 @@ msgid ""
 "\\textbf{3. Compare the total to a target number.} If the total equals or exceeds the target number, the ability check, attack roll, or saving throw is a success. Otherwise, it’s a failure. The "
 "\\textbf{DM} is usually the one who determines target numbers and tells players whether their ability checks, attack rolls, and saving throws succeed or fail."
 msgstr ""
+"\\textbf{3. Võrrelge kogusummat sihtarvuga.} Kui kogusumma võrdub sihtnumbriga või ületab seda, on võimekuse kontroll, ründevise või päästev vise edukas. Vastasel juhul on see ebaõnnestumine. DM on "
+"tavaliselt see, kes määrab sihtnumbrid ja ütleb mängijatele, kas nende võimete kontroll, ründevisked ja päästevisked õnnestuvad või ebaõnnestuvad."
 
 #. type: Plain text
 #: 00-introduction-en.tex:95
 msgid "The target number for an ability check or a saving throw is called a Difficulty Class (DC). The target number for an attack roll is called an \\textbf{Armor Class} (AC)."
-msgstr ""
+msgstr "Võimete kontrolli või päästeviske sihtnumbrit nimetatakse \\textbf{raskusklassiks} (DC). Rünnakuviske sihtnumbrit nimetatakse \\textbf{soomusklassiks} (AC)."
 
 #. type: Plain text
 #: 00-introduction-en.tex:97
 msgid "This simple rule governs the resolution of most tasks in D\\&D play. Chapter 7 provides more detailed rules for using the d20 in the game."
-msgstr ""
+msgstr "See lihtne reegel reguleerib enamiku D\\&D-mängu ülesannete lahendamist. 7. peatükis  on toodud täpsemad reeglid d20 kasutamiseks mängus."
 
 #. type: subsection{#2}
 #: 00-introduction-en.tex:100
 msgid "Advantage and Disadvantage"
-msgstr ""
+msgstr "Eelis ja miinus"
 
 #. type: Plain text
 #: 00-introduction-en.tex:100
@@ -375,16 +417,19 @@ msgid ""
 "while disadvantage reflects the opposite. When you have either advantage or disadvantage, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use"
 " the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17."
 msgstr ""
+"Mõnikord muudavad võimete kontrolli, ründeviset või päästeviset eriolukorrad, mida nimetatakse eeliseks ja puuduseks. Eelised peegeldavad d20 rulliga seotud positiivseid asjaolusid, samas kui "
+"puudused peegeldavad vastupidist. Kui teil on kas eelis või puudus, viskate veeretamisel teise d20. Kasutage kahest rullist kõrgemat, kui teil on eeliseid, ja kasutage alumist rulli, kui teil on "
+"puudusi. Näiteks kui teil on ebasoodne olukord ja viskate 17 ja 5, kasutate 5. Kui teil on selle asemel eelis ja veerete need numbrid, kasutate 17."
 
 #. type: Plain text
 #: 00-introduction-en.tex:102
 msgid "More detailed rules for advantage and disadvantage are presented in chapter 7."
-msgstr ""
+msgstr "Täpsemad reeglid eeliste ja puuduste kohta on esitatud 7. peatükis."
 
 #. type: subsection{#2}
 #: 00-introduction-en.tex:105
 msgid "Specific Beats General"
-msgstr ""
+msgstr "Konkreetsed löögid Üldine"
 
 #. type: Plain text
 #: 00-introduction-en.tex:105
@@ -392,6 +437,8 @@ msgid ""
 "This book contains rules, especially in parts 2 and 3, that govern how the game plays. That said, many racial traits, class features, spells, magic items, monster abilities, and other game elements "
 "break the general rules in some way, creating an exception to how the rest of the game works. Remember this: If a specific rule contradicts a general rule, the specific rule wins."
 msgstr ""
+"See raamat sisaldab reegleid, eriti 2. ja 3. osas, mis reguleerivad mängu mängimist. Sellegipoolest rikuvad paljud rassiomadused, klassiomadused, loitsud, maagilised esemed, koletise võimed ja muud "
+"mänguelemendid mingil moel üldreegleid, luues erandi ülejäänud mängu toimimisest. Pidage meeles: kui konkreetne reegel on üldreegliga vastuolus, võidab konkreetne reegel."
 
 #. type: Plain text
 #: 00-introduction-en.tex:107
@@ -400,21 +447,23 @@ msgid ""
 "in the game. Other examples of rule-breaking are more conspicuous. For instance, an adventurer can’t normally pass through walls, but some spells make that possible. Magic accounts for most of the "
 "major exceptions to the rules."
 msgstr ""
+"Erandid reeglitest on sageli väikesed. Näiteks paljud seiklejad ei valda pikkvibu, kuid igal metshaldajal oskab see rassitunnuse tõttu. See omadus loob mängus väikese erandi. Teised näited reeglite "
+"rikkumisest on silmatorkavamad. Näiteks ei saa seikleja tavaliselt seinu läbida, kuid mõned loitsud teevad selle võimalikuks. Magic moodustab enamiku peamistest reeglite eranditest."
 
 #. type: subsection{#2}
 #: 00-introduction-en.tex:110
 msgid "Round Down"
-msgstr ""
+msgstr "Ümarda alla"
 
 #. type: Plain text
 #: 00-introduction-en.tex:110
 msgid "There’s one more general rule you need to know at the outset. Whenever you divide a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater."
-msgstr ""
+msgstr "On veel üks üldine reegel, mida peate alguses teadma. Kui jagate mängus arvu, ümardage allapoole, kui saate murdosa, isegi kui see on pool või suurem."
 
 #. type: section{#2}
 #: 00-introduction-en.tex:113
 msgid "Adventures"
-msgstr ""
+msgstr "Seiklused"
 
 #. type: Plain text
 #: 00-introduction-en.tex:113
@@ -423,6 +472,9 @@ msgid ""
 "the form of ability scores and skills, class features, racial traits, equipment, and magic items. Every character is different, with various strengths and weaknesses, so the best party of "
 "adventurers is one in which the characters complement each other and cover the weaknesses of their companions. The adventurers must cooperate to successfully complete the adventure."
 msgstr ""
+"Mäng Dungeons \\& Dragons koosneb tegelaste rühmast, kes asuvad seiklusesse, mille Dungeon Master neile esitab. Iga tegelane toob seiklusele kaasa erilisi võimeid võimete punktide ja oskuste, "
+"klassiomaduste, rassitunnuste, varustuse ja maagiliste esemete näol. Iga tegelane on erinev, erinevate tugevate ja nõrkade külgedega, seega on seiklejate parim pidu see, kus tegelased täiendavad "
+"üksteist ja katavad oma kaaslaste nõrkusi. Seiklejad peavad seikluse edukaks lõpuleviimiseks koostööd tegema."
 
 #. type: Plain text
 #: 00-introduction-en.tex:115
@@ -432,6 +484,10 @@ msgid ""
 "features a rich cast of characters: the adventurers created and played by the other players at the table, as well as nonplayer characters (NPCs). Those characters might be patrons, allies, enemies, "
 "hirelings, or just background extras in an adventure. Often, one of the NPCs is a villain whose agenda drives much of an adventure’s action."
 msgstr ""
+"Seiklus on mängu süda, lugu alguse, keskpaiga ja lõpuga. Seikluse võib luua Dungeon Master või osta riiulilt, kohandada ja kohandada, et see vastaks DM-i vajadustele ja soovidele. Mõlemal juhul on "
+"seiklusel fantastiline keskkond, olgu selleks maa-alune vangikongi, lagunev loss, kõrbes või elav linn. Sellel on rikkalik tegelaskuju: seiklejad, mille on loonud ja mänginud teised lauas olevad "
+"mängijad, aga ka mittemängijatest tegelaskujud (NPC-d). Need tegelased võivad olla seikluses patroonid, liitlased, vaenlased, palgalised või lihtsalt taustalisad. Sageli on üks NPC-dest kaabakas, "
+"kelle tegevuskava juhib suure osa seiklustest."
 
 #. type: Plain text
 #: 00-introduction-en.tex:117
@@ -441,6 +497,9 @@ msgid ""
 "spend time trying to solve a puzzle, bypass an obstacle, find something hidden, or unravel the current situation. Meanwhile, the adventurers explore the world, making decisions about which way to "
 "travel and what they’ll try to do next."
 msgstr ""
+"Oma seikluste käigus seisavad tegelased silmitsi mitmesuguste olendite, esemete ja olukordadega, millega nad peavad kuidagi toime tulema. Mõnikord annavad seiklejad ja muud olendid endast parima, et"
+" üksteist lahingus tappa või vangistada. Muul ajal räägivad seiklejad mõne teise olendiga (või isegi maagilise objektiga), pidades silmas eesmärki. Ja sageli veedavad seiklejad aega, et lahendada "
+"mõistatusi, ületada takistust, leida midagi peidetud või lahti harutada praegust olukorda. Samal ajal uurivad seiklejad maailma, tehes otsuseid selle kohta, kuidas reisida ja mida järgmisena teha."
 
 #. type: Plain text
 #: 00-introduction-en.tex:119
@@ -449,6 +508,9 @@ msgid ""
 "hundreds of combats, interactions, and other challenges, and take dozens of sessions to play through, stretching over weeks or months of real time. Usually, the end of an adventure is marked by the "
 "adventurers heading back to civilization to rest and enjoy the spoils of their labors."
 msgstr ""
+"Seiklused on erineva pikkuse ja keerukusega. Lühike seiklus võib tuua kaasa vaid mõned väljakutsed ja selle läbimiseks ei pruugi kuluda rohkem kui üks mänguseanss. Pikk seiklus võib hõlmata sadu "
+"võitlusi, vastasmõjusid ja muid väljakutseid ning läbimängimiseks kulub kümneid seansse, mis kestavad reaalajas nädalaid või kuid. Tavaliselt tähistavad seikluse lõppu seiklejad, kes suunduvad "
+"tagasi tsivilisatsiooni puhkama ja oma töösaaki nautima."
 
 #. type: Plain text
 #: 00-introduction-en.tex:121
@@ -456,16 +518,18 @@ msgid ""
 "But that’s not the end of the story. You can think of an adventure as a single episode of a TV series, made up of multiple exciting scenes. A campaign is the whole series—a string of adventures "
 "joined together, with a consistent group of adventurers following the narrative from start to finish."
 msgstr ""
+"Kuid sellega lugu ei lõpe. Seiklusest võib mõelda kui ühest telesarja episoodist, mis koosneb mitmest põnevast stseenist. Kampaania on kogu seeria – ühendatud seikluste jada, kus järjekindel "
+"seiklejate rühm jälgib narratiivi algusest lõpuni."
 
 #. type: subsection{#2}
 #: 00-introduction-en.tex:124
 msgid "The Three Pillars of Adventure"
-msgstr ""
+msgstr "Seikluse kolm sammast"
 
 #. type: Plain text
 #: 00-introduction-en.tex:124
 msgid "Adventurers can try to do anything their players can imagine, but it can be helpful to talk about their activities in three broad categories: exploration, social interaction, and combat."
-msgstr ""
+msgstr "Seiklejad võivad proovida teha kõike, mida nende mängijad ette kujutavad, kuid võib olla kasulik rääkida nende tegevusest kolmes laiemas kategoorias: uurimine, sotsiaalne suhtlus ja võitlus."
 
 #. type: Plain text
 #: 00-introduction-en.tex:126
@@ -474,6 +538,9 @@ msgid ""
 "the players describing what they want their characters to do, and the Dungeon Master telling the players what happens as a result. On a large scale, that might involve the characters spending a day "
 "crossing a rolling plain or an hour making their way through caverns underground. On the smallest scale, it could mean one character pulling a lever in a dungeon room to see what happens."
 msgstr ""
+"\\textbf{Uurimine} hõlmab nii seiklejate liikumist maailmas kui ka suhtlemist objektide ja olukordadega, mis nõuavad nende tähelepanu. Uurimine on mängijate andmine ja võtmine, kes kirjeldavad, mida"
+" nad tahavad, et nende tegelaskujud teeksid, ja Dungeon Master räägib mängijatele, mis selle tulemusel juhtub. Suures plaanis võib see tähendada, et tegelased veedavad päeva lainelise tasandiku "
+"läbimisel või tund aega läbi maa-aluste koobaste. Väiksemas mastaabis võib see tähendada, et üks tegelane tõmbab koopasse kangi, et näha, mis juhtub."
 
 #. type: Plain text
 #: 00-introduction-en.tex:128
@@ -481,11 +548,13 @@ msgid ""
 "\\textbf{Social interaction} features the adventurers talking to someone (or something) else. It might mean demanding that a captured scout reveal the secret entrance to the goblin lair, getting "
 "information from a rescued prisoner, pleading for mercy from an orc chieftain, or persuading a talkative magic mirror to show a distant location to the adventurers."
 msgstr ""
+"\\textbf{Sotsiaalne suhtlus} hõlmab seiklejaid, kes räägivad kellegagi (või millegi muuga). See võib tähendada nõudmist, et tabatud skaut paljastaks salajase sissepääsu goblinipesasse, saada teavet "
+"päästetud vangilt, paluda armu anda orkipealikule või veenda jutukas võlupeeglit näitama seiklejatele kauget asukohta."
 
 #. type: Plain text
 #: 00-introduction-en.tex:130
 msgid "The rules in chapters 7 and 8 support exploration and social interaction, as do many class features in chapter 3 and personality traits in chapter 4."
-msgstr ""
+msgstr "Peatükkide 7 ja 8 reeglid  toetavad uurimist ja sotsiaalset suhtlust, nagu ka paljud klassi tunnused 3. peatükis  ja isiksuseomadused 4. peatükis."
 
 #. type: Plain text
 #: 00-introduction-en.tex:132
@@ -495,16 +564,20 @@ msgid ""
 "chance to act. Even in the context of a pitched battle, there’s still plenty of opportunity for adventurers to attempt wacky stunts like surfing down a flight of stairs on a shield, to examine the "
 "environment (perhaps by pulling a mysterious lever), and to interact with other creatures, including allies, enemies, and neutral parties."
 msgstr ""
+"9. peatüki fookuses olev \\textbf{võitlus} hõlmab tegelasi ja muid olendeid, kes õõtsutavad relvi, loitsivad, manööverdavad positsiooni ja nii edasi – seda kõike selleks, et võita oma vastaseid, "
+"olgu selleks siis iga vaenlase tapmine, vangide võtmine või sundimine. . Võitlus on D\\&D seansi kõige struktureeritum element, kus olendid vaheldumisi tagavad, et kõigil oleks võimalus tegutseda. "
+"Isegi terava lahingu kontekstis on seiklejatel endiselt palju võimalusi proovida veidraid trikke, nagu kilbil trepist alla surfamine, keskkonda uurida (võib-olla salapärasest kangist tõmmates) ja "
+"suhelda teiste olenditega. , sealhulgas liitlased, vaenlased ja neutraalsed osapooled."
 
 #. type: subsection{#2}
 #: 00-introduction-en.tex:135
 msgid "The Wonders of Magic"
-msgstr ""
+msgstr "Maagia imed"
 
 #. type: Plain text
 #: 00-introduction-en.tex:135
 msgid "Few D\\&D adventures end without something magical happening. Whether helpful or harmful, magic appears frequently in the life of an adventurer, and it is the focus of chapters 10 and 11."
-msgstr ""
+msgstr "Vähesed D\\&D seiklused lõpevad ilma, et midagi maagilist juhtuks. Olenemata sellest, kas maagia on kasulik või kahjulik, ilmub seikleja ellu sageli ning see on 10.  ja 11. peatükkide keskmes."
 
 #. type: Plain text
 #: 00-introduction-en.tex:137
@@ -512,6 +585,8 @@ msgid ""
 "In the worlds of Dungeons \\& Dragons, practitioners of magic are rare, set apart from the masses of people by their extraordinary talent. Common folk might see evidence of magic on a regular basis,"
 " but it’s usually minor—a fantastic monster, a visibly answered prayer, a wizard walking through the streets with an animated shield guardian as a bodyguard."
 msgstr ""
+"Dungeons \\& Dragonsi maailmas on maagiaga tegelejad haruldased, eristuvad inimeste massist nende erakordse andekuse poolest. Tavalised inimesed võivad näha maagia tõendeid regulaarselt, kuid "
+"tavaliselt on need väikesed – fantastiline koletis, nähtavalt vastatud palve, võlur, kes kõnnib mööda tänavaid ihukaitsjana animeeritud kaitsekilbiga."
 
 #. type: Plain text
 #: 00-introduction-en.tex:139
@@ -519,6 +594,8 @@ msgid ""
 "For adventurers, though, magic is key to their survival. Without the healing magic of clerics and paladins, adventurers would quickly succumb to their wounds. Without the uplifting magical support "
 "of bards and clerics, warriors might be overwhelmed by powerful foes. Without the sheer magical power and versatility of wizards and druids, every threat would be magnified tenfold."
 msgstr ""
+"Seiklejate jaoks on aga maagia nende ellujäämise võti. Ilma vaimulike ja paladiinide tervendava maagiata alistuksid seiklejad oma haavadele kiiresti. Ilma bardide ja vaimulike meeliülendava "
+"maagilise toetuseta võivad sõdalased lüüa võimsate vaenlaste poolt. Ilma võlurite ja druiidide maagilise jõu ja mitmekülgsuseta suureneks iga oht kümnekordselt."
 
 #. type: Plain text
 #: 00-introduction-en.tex:141
@@ -528,3 +605,6 @@ msgid ""
 " to rise up as a god of destruction—these are just a few of the magical threats that adventurers might face. With magic of their own, in the form of spells and magic items, the adventurers might "
 "prevail!"
 msgstr ""
+"Maagia on ka kurikaelte eelistatud tööriist. Paljud seiklused on ajendatud loitsumeeste mahhinatsioonidest, kes soovivad kasutada maagiat mõne halva eesmärgi nimel. Kultusliider püüab äratada "
+"jumalat, kes uinub mere all, rämps röövib noori, et neilt maagiliselt elujõust tühjaks tõmmata, hull võlur püüab investeerida automaatide armeesse elufaksiimile, draakon alustab müstilist "
+"ülestõusmisrituaali hävitamise jumalana – need on vaid mõned maagilistest ohtudest, millega seiklejad silmitsi võivad tulla. Oma maagiaga, loitsude ja võluesemete näol, võivad seiklejad võita!"
