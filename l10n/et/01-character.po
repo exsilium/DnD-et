@@ -1,21 +1,17 @@
-# Estonian translations for PACKAGE package
-# Copyright (C) 2023 Free Software Foundation, Inc.
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Ubuntu <exile@chamber.ee>, 2023.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-04-27 20:11+0000\n"
-"PO-Revision-Date: 2023-12-17 17:45+0000\n"
-"Last-Translator: Exile <exile@chamber.ee>\n"
-"Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
+"Generated-By: Pontoon\n"
 
 #. type: part{#2}
 #: master/01-character.tex:6
